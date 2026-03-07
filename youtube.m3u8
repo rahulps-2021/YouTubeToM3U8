@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="AlJazeera.yt" tvg-name="Al Jazeera English" group-title="News", Al Jazeera English
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1772870504/ei/CIeraei5DbrpybgPh5vF4AM/ip/64.236.135.128/id/gCNeDWCI0vo.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774350/txs/51774349%2C51774350%2C51774351%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AVNa5-zjhJmtpSw3mlSwwzkBNMFNc4Hxjo44qTyxKy-owZ6E6g5bI-EAT716dBKEGBPeasmK1LyJ_r6v/spc/6dlaFNwikvif9VSaLHhLjWB3YFyAMH_POsLDgQDW6W8Sk6HhU566r3djBsb6itiw5gGrkQ/vprv/1/go/1/ns/7zemdHZlK6FwJpls2ev6hxsT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/11/n/9_E0R0yDItHQtk6k/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAMwXDE_qsPbcu3hQ70zglfkPEkzAlyjpe-4VIgNbRp5dAiACEwbnCgcoI7TobhtxeTAuXqrXBkB2HXVwGS9XLb2b4Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="TRTWorld.yt" tvg-name="TRT World" group-title="News", TRT World
 https://www.youtube.com/watch?v=1oh9IEwBbFY
