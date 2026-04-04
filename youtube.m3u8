@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="CNBCMarathon.yt" tvg-name="CNBC Marathon" group-title="News", CNBC Marathon
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775338392/ei/OC_RaZWyKNvtir4Pn6_O4AY/ip/40.116.92.120/id/9NyxcX3rhQs.536/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773317/txs/51773317%2C51773318/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGJaENkAcFsu6M2rCzQ14QM-8L_uJ8A7GmRT8dr1zX8PaSzrCH808zIAdhBi5ezGq1DWQp2KDJKm/spc/jlWavZ6nXD-yQ7QANtc-T9xoE5SOvflce8VUud3Ebli7UoReLP-TORYJOKRq7ZC-Dmw8Hw/vprv/1/go/1/ns/siG7guqGQzpE5RAEaf9UwYgU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/qVUQ2LtFJT9PBeY_G70s/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhALa_I9wyTnzPxPp9ZjOx1IzkrgvrUhavQCAl6NP9E8dgAiEA29D-J-W8ShXjFhi6psyMv3-OkWc-yjooZm2VB0Fzrgw%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="DWNews.yt" tvg-name="DW News" group-title="News", DW News
 https://www.youtube.com/watch?v=1oh9IEwBbFY
